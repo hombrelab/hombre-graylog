@@ -9,3 +9,4 @@ Includes:
 
 Plugins:
 - [MQTT Plugin](https://github.com/graylog-labs/graylog-plugin-mqtt)
+- [RabbitMQ Plugin](https://github.com/nexylan/graylog-rabbitmq)
